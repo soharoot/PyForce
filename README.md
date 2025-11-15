@@ -11,7 +11,7 @@ python PyForce.py --help
 ```
 ### Method 2: Git Clone
 ```bash
-git clone https://github.com/sharoot/PyForce.git
+git clone https://github.com/soharoot/PyForce.git
 cd PyForce
 python PyForce.py --help
 ```
